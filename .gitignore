@@ -46,6 +46,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 cleansedChat2.txt
+./Not_Used
+Not_Used/
+./Not_Used/
 
 # Unit test / coverage reports
 htmlcov/
